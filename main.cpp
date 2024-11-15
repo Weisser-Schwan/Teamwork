@@ -9,7 +9,7 @@ std::cout << msg << std::endl;
 // main function is called at program start
 int main(int argc, char** argv) {
     // variable declaration and initialization
-    std::string greeting = "Hello, my name is Xinyi Tang";
+    std::string greeting = "Hello,my name ist Xinxin";
     print(greeting);
     return 0;
 }

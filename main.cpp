@@ -11,7 +11,7 @@
 void print(std::string msg){
     std::cout << msg << std::endl;
 }
-int main(int argc, char** argv) {
+int main(int ) {
     // variable declaration and initialization
     std::string greeting = "Hello, world!";
     print(greeting);

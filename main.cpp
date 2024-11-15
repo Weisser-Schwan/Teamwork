@@ -6,7 +6,7 @@ void print(std::string msg) {
 std::cout << msg << std::endl;
 }
 // main function is called at program start
-int main(int argc, char** argv) {
+int main() {
 // variable declaration and initialization
 std::string greeting = "Hello, world!";
 print(greeting);
